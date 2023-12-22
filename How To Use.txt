@@ -1,1 +1,1 @@
-open Command Prompt(CMD) then do "pip install requests", Done!
+I AM USLESS
