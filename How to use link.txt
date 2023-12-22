@@ -1,0 +1,1 @@
+Make Sure To Have "https://discord.com/billing/partner-promotions/1180231712274387115/" after the token! Example: https://discord.com/billing/partner-promotions/1180231712274387115/ey483000_284u249773287429

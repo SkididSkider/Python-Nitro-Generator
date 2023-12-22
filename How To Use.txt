@@ -1,0 +1,2 @@
+Watch the video and paste into the cmd: "pip install -r requierments.txt"
+MUST BE IN USER GUIDE OR IT WILL NOT WORK!!!
