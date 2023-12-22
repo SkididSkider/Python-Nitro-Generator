@@ -1,5 +1,5 @@
 Version 1
-+Faster Generating Speed
-+Better Generating
++ Faster Generating Speed
++ Better Generating
 + No Crashing
--Removed HTTP 200 Detector(For Faster speed)
+- Removed HTTP 200 Detector(For Faster speed)
