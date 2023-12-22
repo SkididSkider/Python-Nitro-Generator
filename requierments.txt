@@ -1,1 +1,5 @@
-requests
+Search cmd in search bar press enter and type in command prompt
+
+pip install requests
+pip install random
+pip install logging
