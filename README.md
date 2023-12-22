@@ -1,1 +1,5 @@
-It is a python Nitro-Generator thai i used Insomnia to create, it is easy to create one due to insomnia having a Curl to Python converter, (I AM NOT RESPONSIBLE IF YOU GET BANNED FROM YOUR ACCOUNT!!!)
+Version 1
++Faster Generating Speed
++Better Generating
++ No Crashing
+-Removed HTTP 200 Detector(For Faster speed)
